@@ -5,10 +5,11 @@ Code for detecting and classifying bat echolocation calls in high frequency audi
 
 
 ### Getting started
-1) Install the Anaconda Python 3.10 distribution for your operating system from [here](https://www.continuum.io/downloads).  
-2) Download this code from the repository (by clicking on the green button on top right) and unzip it.  
-3) Create a new environment and install the required packages:  
+1) Install the Anaconda Python 3.10 distribution for your operating system from [here](https://www.continuum.io/downloads).
+2) Download the code from this repository (by clicking on the green button on top right) and extract it.
+3) Open a terminal, navigate to the extracted batdetect2-main folder, and create a new environment from the provided environment.yml file while installing the required packages:  
 `conda env create -f environment.yml`
+4) Activate batdetect2:
 `conda activate batdetect2`  
 
 
