@@ -29,7 +29,7 @@ def main(args):
     print('\nResults saved to: ' + args['ann_dir'])
 
     if len(error_files) > 0:
-        print('\nUnable to process the follow files:')
+        print('\nUnable to process the following files:')
         for err in error_files:
             print('  ' + err)
 
