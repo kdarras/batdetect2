@@ -14,7 +14,7 @@ Code for detecting and classifying bat echolocation calls in high frequency audi
 
 
 ### Try the model  
-1) You can try a demo of the model (for UK species) on [huggingface](https://huggingface.co/spaces/macaodha/batdetect2).  
+1) You can try a demo of the model (for UK species) on [huggingface](https://huggingface.co/spaces/macaodha/batdetect2).  Limited to 2-seconds audio snippets.
 
 2) Alternatively, click [here](https://colab.research.google.com/github/macaodha/batdetect2/blob/master/batdetect2_notebook.ipynb) to run the model using Google Colab. You can also run this notebook locally.  
 
